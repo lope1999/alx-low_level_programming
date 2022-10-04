@@ -11,3 +11,4 @@ Alx-low_level_programming contains
 9. 0x08-recursion
 10. 0x09-static_libraries
 11. 0x0A-argc_argv
+12. 0x0B-malloc_free
