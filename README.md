@@ -12,3 +12,4 @@ Alx-low_level_programming contains
 10. 0x09-static_libraries
 11. 0x0A-argc_argv
 12. 0x0B-malloc_free
+13. 0x0C-more_malloc_free
