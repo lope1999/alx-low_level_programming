@@ -13,3 +13,5 @@ Alx-low_level_programming contains
 11. 0x0A-argc_argv
 12. 0x0B-malloc_free
 13. 0x0C-more_malloc_free
+14. 0x0D-preprocessor
+15. 0x0E-structures_typedef
