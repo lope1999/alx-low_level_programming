@@ -17,3 +17,4 @@ Alx-low_level_programming contains
 15. 0x0E-structures_typedef
 16. 0x0F-function_pointers
 17. 0x10-variadic_functions
+18. 0x12-singly_linked_lists
